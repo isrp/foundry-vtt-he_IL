@@ -1,0 +1,4 @@
+/* TODO: actually put something that does something and test it */
+*[lang=he] {
+  direction: rtl;
+}
